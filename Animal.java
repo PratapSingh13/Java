@@ -15,7 +15,7 @@ public class Animal
 
 	public static void main(String[] args) 
 	{
-		Animal obj = new Sound();
+		Animal obj = new Horse();
 		obj.sound();
 
 	}
