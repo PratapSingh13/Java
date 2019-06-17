@@ -18,7 +18,5 @@ public class Java_Teacher extends Teacher
 		System.out.println(obj.Designation);
 		System.out.println(obj.mainsubject);
 		obj.does();
-
 	}
-
 }
