@@ -19,5 +19,4 @@ public class Animal
 		obj.sound();
 
 	}
-
 }
