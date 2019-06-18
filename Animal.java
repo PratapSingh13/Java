@@ -17,6 +17,5 @@ public class Animal
 	{
 		Animal obj = new Horse();
 		obj.sound();
-
 	}
 }
