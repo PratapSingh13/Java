@@ -17,7 +17,6 @@ public class Arithmetic_Operations
 		System.out.println("Remainder= "+ (FirstNumber%SecondNumber));
 		
 				
-
 	}
 
 }
