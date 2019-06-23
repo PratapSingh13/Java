@@ -1,7 +1,6 @@
 /* This Demonstrates a Variable */
 public class Variable 
 {
-
 	public static void main(String[] args) 
 	{
 		int var1;   //This Declares a Variable
