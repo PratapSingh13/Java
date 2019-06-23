@@ -1,7 +1,6 @@
 /* This is Variable_Example */
 public class Variable_Example 
 {
-
 	public static void main(String[] args) 
 	{
 		int num;   //this declares a variable called num
