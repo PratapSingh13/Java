@@ -10,7 +10,6 @@ public class Variable_Example
 		num=num*2;
 	System.out.println("The Value of num*2 is:"+num);
 	System.out.println("num");
-
 	}
 
 }
