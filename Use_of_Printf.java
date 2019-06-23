@@ -1,6 +1,5 @@
 public class Use_of_Printf 
 {
-
 	public static void main(String[] args) 
 	{
 		int i,j,k;
