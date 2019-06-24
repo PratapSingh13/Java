@@ -7,5 +7,4 @@ public class Dialogbox
 		JOptionPane.showConfirmDialog(null, "Java Dialogbox");
 
 	}
-
 }
