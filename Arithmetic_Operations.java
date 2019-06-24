@@ -14,8 +14,7 @@ public class Arithmetic_Operations
 		System.out.println("Sub= "+ (FirstNumber-SecondNumber));
 		System.out.println("Mul= "+ (FirstNumber*SecondNumber));
 		System.out.println("Div= "+ (FirstNumber/SecondNumber));
-		System.out.println("Remainder= "+ (FirstNumber%SecondNumber));
-					
+		System.out.println("Remainder= "+ (FirstNumber%SecondNumber));					
 	}
 
 }
