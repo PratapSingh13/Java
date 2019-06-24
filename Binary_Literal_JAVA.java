@@ -1,4 +1,3 @@
-
 public class Binary_Literal_JAVA 
 {
 	public static void main(String[] args)
