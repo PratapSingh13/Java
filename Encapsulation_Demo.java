@@ -39,7 +39,6 @@ public class Encapsulation_Demo {
 		System.out.println("Employee Name:"+obj.getEmpName());
 		System.out.println("Employee Serial Number:"+obj.getEmpserialnum());
 		System.out.println("Emploee Age:"+obj.getEmpAge());
-
 	}
 
 }
