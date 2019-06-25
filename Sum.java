@@ -21,7 +21,6 @@ public class Sum
 		Sum s = new Sum();
 		System.out.println(s.sum(10,20));
 		System.out.println(s.sum(10, 20,30));
-		System.out.println(s.sum(20.80, 45.77));
-	  
+		System.out.println(s.sum(20.80, 45.77));	  
 	}
 }
