@@ -1,7 +1,6 @@
 // ShorHand Operators +=, -=, *=........
 public class Short_Hand_OPERATORS 
 {
-
 	public static void main(String[] args) 
 	{
 		int i=5;     
