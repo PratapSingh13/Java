@@ -18,5 +18,4 @@ public class Polymorphism_Example
 		System.out.println(Sum.sum(10.5, 20.5));
 
 	}
-
 }
