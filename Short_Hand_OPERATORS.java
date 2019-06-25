@@ -18,6 +18,5 @@ public class Short_Hand_OPERATORS
 		System.out.println(j);
 		System.out.println(k);
 		System.out.println(l);
-
 	}
 }
