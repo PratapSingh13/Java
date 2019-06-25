@@ -20,5 +20,4 @@ public class Short_Hand_OPERATORS
 		System.out.println(l);
 
 	}
-
 }
