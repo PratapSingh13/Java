@@ -16,6 +16,5 @@ public class Polymorphism_Example
 		System.out.println(Sum.sum(10,20));
 		System.out.println(Sum.sum(10, 20, 30));
 		System.out.println(Sum.sum(10.5, 20.5));
-
 	}
 }
