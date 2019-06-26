@@ -2,7 +2,7 @@
 class Teacher
 {
 	String Designation="Teacher";
-	String CollegeName="KIET";
+	String CollegeName="KIET"
 	public void does()
 	{
 		System.out.println("Teaching");
