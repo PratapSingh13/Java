@@ -2,7 +2,7 @@
 //With Multiple cases without Break Statement
 public class Without_Break_statement 
 {
-	public static void main(String[] args
+	public static void main(String[] args)
 	{
 		int day=3;
 		String NameofDay;
