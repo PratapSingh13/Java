@@ -53,5 +53,4 @@ public class Without_Break_statement
 		}
 		System.out.println(NameofDay + " Is a " + DayType);
 	}
-
-
+}
