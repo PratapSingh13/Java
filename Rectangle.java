@@ -1,5 +1,5 @@
 //Example of Single Inheritance
-class Shape
+class Shap
 {
 	int length;
 	int breadth;
