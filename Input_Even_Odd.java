@@ -15,6 +15,5 @@ public class Input_Even_Odd
 		{
 			System.out.println("The Number is Odd");
 		}
-		
-}
+	}
 }
