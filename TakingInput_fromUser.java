@@ -11,5 +11,6 @@ public class TakingInput_fromUser
 		int Second=input.nextInt();
 		
 		System.out.println(First+Second);
+
 	}	
 }
