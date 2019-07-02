@@ -13,4 +13,5 @@ public class TakingInput_fromUser
 		System.out.println(First+Second);
 
 	}	
+	
 }
