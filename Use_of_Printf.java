@@ -9,4 +9,4 @@ public class Use_of_Printf
 		System.out.println("The addition of "+i+ " and " +j+ " is "+k);
 		System.out.printf("The addition of %d and %d is %d",i,j,k);
 	}
-}d
+}
