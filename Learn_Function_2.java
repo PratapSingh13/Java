@@ -1,7 +1,6 @@
 
 public class Learn_Function_2 
 {
-
 	public static void main(String[] args) 
 	{
 		RankPoints(255.7);       //Method of name RankPoints
