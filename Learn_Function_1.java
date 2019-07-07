@@ -7,7 +7,6 @@ public class Learn_Function_1
 		int b=6;
 		int c=mainFunction(a,b);
 		System.out.println("Minimum Value=" +c);
-
 	}
 	/* Return of Minimum of two numbers*/
 	public static int mainFunction(int n1, int n2)
