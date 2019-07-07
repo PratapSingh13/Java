@@ -18,7 +18,6 @@ public class Learn_Function_1
 		else
 			min=n1;
 		return min;
-	}
-	 
+	} 
 
 }
