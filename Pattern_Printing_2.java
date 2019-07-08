@@ -17,6 +17,5 @@ public class Pattern_Printing_2
 			}
 			System.out.println();
 		}
-
 	}
 }
