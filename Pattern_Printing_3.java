@@ -18,6 +18,5 @@ public class Pattern_Printing_3
 			}
 			System.out.println();
 		}
-
 	}
 }
