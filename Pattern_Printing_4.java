@@ -18,5 +18,4 @@ public class Pattern_Printing_4
 		}
 
 	}
-
 }
