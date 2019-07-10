@@ -1,4 +1,4 @@
-
+// Java Program to print the REVERSE Triangle 
 public class Pattern_Printing_6 
 {
 	public static void main(String[] args) 
