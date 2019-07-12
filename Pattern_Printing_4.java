@@ -21,3 +21,4 @@ public class Pattern_Printing_4
 		}
 	}
 }
+g
