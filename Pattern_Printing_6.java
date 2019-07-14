@@ -22,4 +22,4 @@ public class Pattern_Printing_6
 		}
 	}
 }
-y
+
