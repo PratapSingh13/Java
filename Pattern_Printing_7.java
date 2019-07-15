@@ -23,6 +23,5 @@ public class Pattern_Printing_7
 			}
 			System.out.println();
 		}
-		
 	}
 }
