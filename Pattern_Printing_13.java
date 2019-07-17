@@ -31,5 +31,4 @@ public class Pattern_Printing_13
 			System.out.println();
 		}
 	}
-
 }
