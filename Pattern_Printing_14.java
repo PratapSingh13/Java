@@ -30,7 +30,6 @@ public class Pattern_Printing_14
 			}
 			System.out.println();
 		}
-
 	}
 
 }
