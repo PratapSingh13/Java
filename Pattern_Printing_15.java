@@ -49,5 +49,4 @@ public class Pattern_Printing_15
 			System.out.println();
 		}
 	}
-
 }
