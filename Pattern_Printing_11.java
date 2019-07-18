@@ -1,7 +1,6 @@
 
 public class Pattern_Printing_11 
 {
-
 	public static void main(String[] args) 
 	{
 		int i; 
