@@ -21,6 +21,5 @@ public class Pattern_Printing_11
 			}
 			System.out.println();
 		}
-
 	}
 }
