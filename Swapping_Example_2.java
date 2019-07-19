@@ -11,6 +11,5 @@ public class Swapping_Example_2
 		b=a-b;  // b=11
 		a=a-b;  // a=1
 		System.out.println("After SWAPPING: a = "+a + " and b = "+b);
-
 	}
 }
