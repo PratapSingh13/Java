@@ -1,7 +1,6 @@
 
 public class Array_Example_1 
 {
-
 	public static void main(String[] args) 
 	{
 		//Declaration and Instantiation
