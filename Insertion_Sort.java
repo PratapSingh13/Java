@@ -1,7 +1,6 @@
 //Java Program to demonstrate INSERTION SORT 
 public class Insertion_Sort 
 {
-
 	public static void insertionsort(int[] array)
 	{
 		int n = array.length;
