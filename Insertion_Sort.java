@@ -32,5 +32,4 @@ public class Insertion_Sort
 			System.out.print(i+" ");
 		}
 	}
-
 }
