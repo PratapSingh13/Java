@@ -14,5 +14,4 @@ public class Java_GUI
 		frame.setVisible(true);
 
 	}
-
 }
