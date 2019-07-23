@@ -12,6 +12,5 @@ public class Java_GUI
 		frame.getContentPane().add(button1);
 		frame.getContentPane().add(button2);
 		frame.setVisible(true);
-
 	}
 }
