@@ -1,7 +1,6 @@
 //A JAVA Program to create a Method that Receives a single parameter
 public class SingleParameter_Example 
 {
-
 	public static void main(String[] args) 
 	{
 		double salary=200.00;
