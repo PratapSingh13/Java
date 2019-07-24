@@ -19,5 +19,4 @@ public class SingleParameter_Example
 		System.out.println("Current Salary: " + salary + " After Raise: "
 				+ newSalary);
 	}	
-
 }
