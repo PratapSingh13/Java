@@ -16,7 +16,7 @@ public class SingleParameter_Example
 		double newSalary;
 		double RAISE_RATE=1.10;
 		newSalary=salary*RAISE_RATE;
-		System.out.println("Current Salary: " + salary + " After Raise: "
-				+ newSalary);
+		System.out.println("Current Salary: " + salary + " After Raise: "+ newSalary);
+				
 	}	
 }
