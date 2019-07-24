@@ -9,7 +9,6 @@ public class SingleParameter_Example
 		predictRaise(400.00);
 		predictRaise(salary);
 		predictRaise(starting_wage);
-
 	}
 	public static void predictRaise(double salary)
 	{
