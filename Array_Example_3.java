@@ -11,6 +11,5 @@ public class Array_Example_3
 		{
 			System.out.println(i);
 		}
-
 	}
 }
