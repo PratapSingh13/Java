@@ -14,5 +14,4 @@ public class Swapping_Example_1
 		b=temp;  //   b=5
 		System.out.println("After SWAPPING: a = "+a + " and b = "+b);
 	}
-
 }
