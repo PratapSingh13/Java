@@ -20,4 +20,3 @@ public class Pattern_Printing_2
 		}
 	}
 }
-n
