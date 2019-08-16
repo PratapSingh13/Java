@@ -1,7 +1,6 @@
 // JAVA Program to Print All Prime Numbers between 1 to 100
 public class Prime_Numbers_List 
 {
-
 	public static void main(String[] args) 
 	{
 		for(int n=1; n<=100; n++)
