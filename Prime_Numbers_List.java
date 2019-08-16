@@ -1,4 +1,4 @@
-
+// JAVA Program to Print All Prime Numbers between 1 to 100
 public class Prime_Numbers_List 
 {
 
