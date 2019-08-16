@@ -25,5 +25,4 @@ public class Prime_Number
 			System.out.println("Your Number is not Prime");
 		}
 	}
-
 }
