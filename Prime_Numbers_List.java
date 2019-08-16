@@ -16,8 +16,7 @@ public class Prime_Numbers_List
 			if(temp==0)
 			{
 				System.out.println(n);
-			}
-			
+			}	
 		}
 	}
 }
