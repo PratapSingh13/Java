@@ -19,6 +19,5 @@ public class Prime_Numbers_List
 			}
 			
 		}
-		
 	}
 }
