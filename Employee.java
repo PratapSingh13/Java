@@ -8,7 +8,6 @@ public class Employee
 		this.name=name;
 		this.emp_id=emp_id;
 	}
-
 	public static void main(String[] args) 
 	{
 		Employee e1=new Employee("Pratap",101);
