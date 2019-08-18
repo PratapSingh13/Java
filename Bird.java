@@ -27,5 +27,4 @@ class Bird extends Dog
 		obj.sound();
 		obj.fly();
 	}
-
 }
