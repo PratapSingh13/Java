@@ -12,7 +12,6 @@ public class Car extends Vehicle
 	{
 		System.out.println("I would Like To Buy a Sedan Car");
 	}
-
 	public static void main(String[] args) 
 	{
 		Car c=new Car();
