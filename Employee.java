@@ -17,5 +17,4 @@ public class Employee
 		System.out.println("Employee 2:"+e2.name+" "+e2.emp_id);
 
 	}
-
 }
