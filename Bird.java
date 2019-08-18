@@ -19,7 +19,6 @@ class Bird extends Dog
 	{
 		System.out.println("Birds are Flying");
 	}
-
 	public static void main(String[] args) 
 	{
 		Bird obj=new Bird();
