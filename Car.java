@@ -19,5 +19,4 @@ public class Car extends Vehicle
 		c.Type();
 		c.Sedan();
 	}
-
 }
