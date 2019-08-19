@@ -15,7 +15,7 @@ public class Car extends Vehicle
 	public static void main(String[] args) 
 	{
 		Car c=new Car();
-		c.Type();
+		c.Type();          //What Type of Vehicle You Want to Buy
 		c.Sedan();
 	}
 }
