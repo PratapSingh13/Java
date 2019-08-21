@@ -11,6 +11,5 @@ public class String_Reverse
 			rev=rev+name.charAt(i);        //Using char() we get the character of String
 		}
 		System.out.println(rev);
-	}
-	
+	}	
 }
