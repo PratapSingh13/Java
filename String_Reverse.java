@@ -8,7 +8,7 @@ public class String_Reverse
 		String rev="";                       
 		for(int i=size-1; i>=0; i--)
 		{
-			rev=rev+name.charAt(i);        //Using char() we get the character of String
+			rev=rev+name.charAt(i);        //Using char() we get the haracter of String
 		}
 		System.out.println(rev);
 	}	
