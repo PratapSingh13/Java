@@ -16,6 +16,6 @@ public class Car extends Vehicle
 	{
 		Car c=new Car();
 		c.Type();          //What Type of Vehicle You Want to Buy
-		c.Sedan();
+		c.Sedan();        //I would Like To Buy a Sedan Car
 	}
 }
