@@ -13,7 +13,6 @@ public class Array_Example_1
 		a[4]=50;
 		//Array Traversing
 		for(int i=0; i<a.length; i++)  //Length is the Property of the Array
-			System.out.println(a[i]);
-				
+			System.out.println(a[i]);		
 	}
 }
