@@ -24,6 +24,6 @@ class Bird extends Dog           //Inherited class i.e. Dog
 		Bird obj=new Bird();
 		obj.eat();       //"Animals are eating"
 		obj.sound();
-		obj.fly();       //"Dogs are Barking"
+		obj.fly();       //
 	}
 }
