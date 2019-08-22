@@ -16,5 +16,4 @@ public class Array_Example_1
 			System.out.println(a[i]);
 				
 	}
-
 }
