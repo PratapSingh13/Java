@@ -8,8 +8,7 @@ public class CountTheWords
 		System.out.println("Enter the String");
 		Scanner sc=new Scanner(System.in);
 		str=sc.nextLine();
-		String[]words=str.trim().split(" ");        //
-		System.out.println("Number of Words in the String is: " +words.length);
-				
+		String[]words=str.trim().split(" ");        
+		System.out.println("Number of Words in the String is: " +words.length);		
 	}
 }
