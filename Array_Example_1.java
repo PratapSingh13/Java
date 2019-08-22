@@ -15,7 +15,6 @@ public class Array_Example_1
 		for(int i=0; i<a.length; i++)  //Length is the Property of the Array
 			System.out.println(a[i]);
 				
-
 	}
 
 }
