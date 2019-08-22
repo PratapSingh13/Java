@@ -13,7 +13,7 @@ class Dog extends Animal
 		System.out.println("Dogs are Barking");
 	}
 }
-class Bird extends Dog
+class Bird extends Dog           //Inherited class i.e. Dog
 {
 	void fly() 
 	{
