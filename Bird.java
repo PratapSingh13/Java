@@ -22,7 +22,7 @@ class Bird extends Dog           //Inherited class i.e. Dog
 	public static void main(String[] args) 
 	{
 		Bird obj=new Bird();
-		obj.eat();
+		obj.eat();       //"Animals are eating"
 		obj.sound();
 		obj.fly();
 	}
