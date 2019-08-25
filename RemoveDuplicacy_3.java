@@ -15,6 +15,5 @@ public class RemoveDuplicacy_3
 		{
 			System.out.println(no+"");
 		}
-
 	}
 }
