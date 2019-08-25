@@ -19,6 +19,5 @@ public class RemoveDuplicacy_2
 		{
 			System.out.println(a[i]+"");                         //[1,2,,4,5,6,7,8,9]
 		}
-
 	}
 }
