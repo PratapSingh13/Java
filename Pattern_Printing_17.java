@@ -30,3 +30,18 @@ public class Pattern_Printing_17
 	}
 	
 }
+
+
+OUTPUT
+
+*****
+****
+***
+**
+*
+    *
+   **
+  ***
+ ****
+*****
+
