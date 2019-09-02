@@ -16,15 +16,20 @@ public class ArrayList_1
 		car.add("BMW");
 		car.add("AUDI");
 		car.add("FORD");
+		
 		System.out.println(car);                 //[VOLVO, BMW, AUDI, FORD]
+		
 		//We can modify our List by using set(); method
 		System.out.println(car.set(0, "SUZUKI"));
 		System.out.println(car);                //[SUZUKI, BMW, AUDI, FORD]
+		
 		//We can access element by using get(); method
 		System.out.println(car.get(1));         //BMW
+		
 		//We can Remove element by using remove(): method
 		System.out.println(car.remove(0));
 		System.out.println(car);                //[BMW, AUDI, FORD]
+		
 		//We can find Size of ArrayList by using size(); method
 		System.out.println(car.size());         // 3
 	}
