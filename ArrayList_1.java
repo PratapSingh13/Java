@@ -9,7 +9,6 @@ import java.util.Collections;
 
 public class ArrayList_1 
 {
-
 	public static void main(String[] args) 
 	{
 		ArrayList<String> car=new ArrayList<String>();
@@ -29,5 +28,4 @@ public class ArrayList_1
 		//We can find Size of ArrayList by using size(); method
 		System.out.println(car.size());         // 3
 	}
-
 }
