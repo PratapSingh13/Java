@@ -15,7 +15,7 @@ public class LinkedListExample_1
 		linkedlist.add("Item_5");
 		
 		//Displaying LinkedList Content
-		System.out.println(linkedlist);                 //[Item_1, Item_2, Item_3, Item_4, Item_5]
+		System.out.println(linkedlist);                                             //[Item_1, Item_2, Item_3, Item_4, Item_5]
 		
 		//Add first and last element to list
 		linkedlist.addFirst("First_Name");
