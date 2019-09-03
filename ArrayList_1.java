@@ -32,5 +32,8 @@ public class ArrayList_1
 		
 		//We can find Size of ArrayList by using size(); method
 		System.out.println(car.size());         // 3
+		
+		//We can check either element exists or not by using contains(); method
+		System.out.println("AUDI");              //True
 	}
 }
