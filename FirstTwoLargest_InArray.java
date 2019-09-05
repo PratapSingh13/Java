@@ -1,47 +1,49 @@
+//Java Program to Find the Largest Two Numbers in an Array
+
 import java.util.Scanner;
 
 public class FirstTwoLargest_InArray 
 {
 	public static void main(String[] args) 
 	{
-		int n;
+		int num;
 		System.out.println("Enter the Number of Elements You want in Array");
 		Scanner sc=new Scanner(System.in);
-		n=sc.nextInt();
+		num=sc.nextInt();
 		
 		//Creating an Array of Size of n 
-		int array[]=new int[n];
+		int array[]=new int[num];
 		System.out.println("Enter all the Elements");
-		for(int i=0; i<array.length; i++)
+		for(int index=0; i<array.length; index++)
 		{
-			array[i]=sc.nextInt();
+			array[index]=sc.nextInt();
 		}
 		
-		int largest_1,largest_2,temp;
-		largest_1=array[0];
-		largest_2=array[1];
+		int first_largest,second_largest,temp;
+		first_largest=array[0];
+		second_largest=array[1];
 		
-		if(largest_1<largest_2)
+		if(first_largest<second_largest)
 		{
-			temp=largest_1;
-			largest_1=largest_2;
-			largest_2=temp;
+			temp=first_largest;
+			first_largest=second_largest;
+			second_largest=temp;
 		}
 		
-		for(int i=2; i<array.length; i++)
+		for(int index=2; i<array.length; index++)
 		{
 			if(largest_1<array[i])
 			{
-				largest_2=largest_1;
-				largest_1=array[i];
+				second_largest=first_largest;
+				first_largest=array[index];
 			}
-			else if(array[i]>largest_2 && array[i]!=largest_1)
+			else if(array[index]>second_largest && array[index]!=first_largest)
 			{
-				largest_2=array[i];
+				second_largest=array[index];
 			}
 		}
-		System.out.println("The First Largest is:"+largest_1);
-		System.out.println("The Second Largest is:"+largest_2);
+		System.out.println("The First Largest is:"+first_largest);
+		System.out.println("The Second Largest is:"+second_largest);
 		
 	}
 
