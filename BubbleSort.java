@@ -32,3 +32,7 @@ public class BubbleSort
 	}
 
 }
+
+
+
+//OUTPUT=[2 5 19 29 32 36]
