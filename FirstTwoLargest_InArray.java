@@ -15,7 +15,7 @@ public class FirstTwoLargest_InArray
 		//Creating an Array of Size of n 
 		int array[]=new int[num];
 		System.out.println("Enter all the Elements");
-		for(int index=0; i<array.length; index++)
+		for(int index=0; index < array.length; index++)
 		{
 			array[index]=sc.nextInt();
 		}
