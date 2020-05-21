@@ -1,11 +1,11 @@
 class Main
 {
-	private int serialnum;
+	private int serialNum;
 	private int age;
 	private String name;
-	public int getEmpserialnum()
+	public int getEmpSerialNum()
 	{
-		return serialnum;
+		return serialNum;
 	}
 	public String getEmpName()
 	{
@@ -25,7 +25,7 @@ class Main
 	}
 	public void setEmpSSN(int newValue)
 	{
-		serialnum=newValue;
+		serialNum=newValue;
 	}
 }
 public class Encapsulation_Demo {
@@ -37,8 +37,7 @@ public class Encapsulation_Demo {
 		obj.setEmpAge(21);
 		obj.setEmpSSN(1802914980);
 		System.out.println("Employee Name:"+obj.getEmpName());
-		System.out.println("Employee Serial Number:"+obj.getEmpserialnum());
+		System.out.println("Employee Serial Number:"+obj.getEmpSerialNum());
 		System.out.println("Emploee Age:"+obj.getEmpAge());
 	}
-
 }
