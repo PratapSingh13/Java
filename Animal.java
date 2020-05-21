@@ -11,7 +11,6 @@ public class Animal
 			System.out.println("Neigh");
 		}
 	}
-
 	public static void main(String[] args) 
 	{
 		Animal obj = new Horse();
