@@ -6,7 +6,7 @@ public class LinearSearch
 	{
 		int counter;        
 		int number;         
-		double item;
+		int item;
 		int array[];
 		
 		Scanner scan = new Scanner(System.in);
