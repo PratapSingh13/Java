@@ -21,7 +21,6 @@ public class BinarySearch
 		System.out.println("Enter " + number + " integers");
 		
 		for(counter = 0; counter < number; counter++)
-		{
 			array[counter] = input.nextInt();
 			
 			System.out.println("Enter the search value:");
@@ -36,19 +35,16 @@ public class BinarySearch
 					first = middle + 1;
 				else if(array[middle] == item)
 				{
-					System.out.println(item + " found at location " + (middle + 1) + ".");
+					System.out.println(item + " found at location " + (middle + 1));
 					break;
 				}
 				else
 				{
-					last = middle -1;
+					last = middle - 1;
 				}
 				middle = (first + last)/2;
 			}
 			if(first > last)
 				System.out.println(item + " is not found");
-		}
-
 	}
-
 }
