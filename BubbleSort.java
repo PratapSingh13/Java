@@ -28,9 +28,7 @@ public class BubbleSort
 		{
 			System.out.print(array[i]+ " ");
 		}
-
 	}
-
 }
 
 
