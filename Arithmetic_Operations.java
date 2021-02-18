@@ -16,4 +16,4 @@ public class Arithmetic_Operations
 		System.out.println("Div= "+ (FirstNumber/SecondNumber));
 		System.out.println("Remainder= "+ (FirstNumber%SecondNumber));					
 	}
-}
+
