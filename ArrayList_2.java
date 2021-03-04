@@ -21,7 +21,5 @@ public class ArrayList_2
 		{
 			System.out.println(car.get(i));
 		}
-
 	}
-
 }
