@@ -9,7 +9,6 @@ import java.util.Collections;
 
 public class ArrayList_2 
 {
-
 	public static void main(String[] args) 
 	{
 		ArrayList<String> car=new ArrayList<String>();
