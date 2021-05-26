@@ -1,7 +1,5 @@
-node
+@Library("shared-library") _
+node 
 {
-    stage('Build')
-    {
-        sh 'echo Hello'
-    }
+    gitSecrets.provisionReporting()
 }
