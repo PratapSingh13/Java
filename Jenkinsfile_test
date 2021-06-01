@@ -1,5 +1,7 @@
 @Library("shared-library") _
 node 
 {
-    testSL.buildDeployer()
+    testSL.buildDeployer(
+        configFilePath: ./
+    )
 }
