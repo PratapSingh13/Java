@@ -2,6 +2,6 @@
 node 
 {
     test.buildDeployer(
-        configFilePath: "./"
+        configFilePath: "config.properties"
     )
 }
