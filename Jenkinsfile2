@@ -1,0 +1,7 @@
+@Library("shared-library") _
+node 
+{
+    test.buildDeployer(
+        configFilePath: "./"
+    )
+}
