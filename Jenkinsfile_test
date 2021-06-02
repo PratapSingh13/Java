@@ -1,7 +1,7 @@
 @Library("shared-library") _
 node 
 {
-    testSL.buildDeployer(
+    phpSL.buildDeployer(
         configFilePath: "./"
     )
 }
