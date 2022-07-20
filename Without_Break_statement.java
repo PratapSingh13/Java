@@ -1,10 +1,14 @@
 //Java Program to Demonstrate Switch case 
 //With Multiple cases without Break Statement
+import java.util.Scanner;
 public class Without_Break_statement 
 {
 	public static void main(String[] args)
 	{
-		int day=3;
+		Scanner input = new Scanner(System.in);
+		System.out.println("Please enter the day number");
+		int day=input.nextInt();
+		
 		String NameofDay;
 		String DayType;
 		switch(day)
@@ -51,6 +55,17 @@ public class Without_Break_statement
 		default:
 		DayType = "Invalid Day Type";		
 		}
-		System.out.println(NameofDay + " Is a " + DayType);
+		if(DayType == "WeekDay")
+		{
+			System.out.println(NameofDay + " Is a " + DayType);
+		}
+		else if(DayType == "Weekend")
+		{
+			System.out.println(NameofDay + " Is a " + DayType);
+		}
+		else
+		{
+			System.out.println("You entered invalid day");
+		}
 	}
 }
