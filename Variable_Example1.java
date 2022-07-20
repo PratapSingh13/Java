@@ -1,5 +1,5 @@
 /* This is Variable_Example */
-public class Variable_Example 
+public class Variable_Example1
 {
 	public static void main(String[] args)
 	{
@@ -8,6 +8,6 @@ public class Variable_Example
 		System.out.println("This is num:"+num);
 		num=num*2;
 	System.out.println("The Value of num*2 is:"+num);
-	System.out.println("num");
+	System.out.println(num);
 	}
 }
