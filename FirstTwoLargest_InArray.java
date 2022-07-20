@@ -34,9 +34,9 @@ public class FirstTwoLargest_InArray
 		}
 		
 		
-		for(int index=2; i<array.length; index++)
+		for(int index=2; index<array.length; index++)
 		{
-			if(largest_1<array[i])
+			if(first_largest < array[index])
 			{
 				second_largest=first_largest;
 				first_largest=array[index];
