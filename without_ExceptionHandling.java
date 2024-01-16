@@ -1,5 +1,5 @@
 //Problem without Exception Handling
-public class Withot_ExceptionHandling
+public class without_ExceptionHandling
 {
 	public static void main(String[] args) 
 	{
